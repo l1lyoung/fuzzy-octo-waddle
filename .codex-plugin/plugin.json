@@ -1,0 +1,13 @@
+{
+  "name": "ue-blueprint-to-cpp",
+  "version": "1.0.0",
+  "description": "Industrial-grade Unreal Engine Blueprint-to-C++ migration and hardening agent skill.",
+  "author": "Your Name",
+  "keywords": [
+    "unreal-engine",
+    "blueprint",
+    "cpp",
+    "gameplay-programming",
+    "agent-skill"
+  ]
+}

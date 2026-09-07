@@ -1,0 +1,21 @@
+{
+  "UMG": [
+    "UUserWidget",
+    "UWidgetComponent",
+    "UWidgetAnimation"
+  ],
+  "AIModule": [
+    "AAIController",
+    "UBehaviorTreeComponent",
+    "UBlackboardComponent"
+  ],
+  "EnhancedInput": [
+    "UEnhancedInputComponent",
+    "UInputAction",
+    "UInputMappingContext"
+  ],
+  "GameplayTags": [
+    "FGameplayTag",
+    "FGameplayTagContainer"
+  ]
+}
